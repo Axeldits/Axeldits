@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me via socials
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Still learning to create some beautifu sites.
+- ⚡ Fun fact: Still learning to create some beautiful sites.
 
 <!---
 Axeldits/Axeldits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
